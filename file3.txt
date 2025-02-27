@@ -1,1 +1,2 @@
 "Bug fix in version 2.0 "
+"if we checkout any tag -  we only make the changes on new branch"
