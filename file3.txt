@@ -1,1 +1,1 @@
-"Initial version of Application "
+"Bug fix in version 2.0 "
