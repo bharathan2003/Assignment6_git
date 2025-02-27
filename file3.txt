@@ -1,1 +1,1 @@
-"Bug fix in version 2.0 "
+"More features update in the version 3.0"
