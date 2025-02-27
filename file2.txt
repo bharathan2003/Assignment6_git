@@ -1,0 +1,2 @@
+"Some features been added "
+"version becomes v1.0"
